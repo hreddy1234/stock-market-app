@@ -7,6 +7,7 @@ import numpy as np
 import joblib
 import yfinance as yf
 import random
+from sklearn.linear_model import LogisticRegression
 
 # ===============================
 # PAGE CONFIG
