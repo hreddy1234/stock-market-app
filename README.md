@@ -3,9 +3,7 @@ The Regime Switching Volatility Predictor is a machine learning-based project de
 Model Used:
 Logistic Regression
 Type: Classification
-Output:
-0→ LOW risk
-1→ HIGH risk
+
 
 Why Logistic Regression?
 In this project, we experimented with multiple machine learning models such as K-Nearest Neighbors (KNN). Random Forest, Support Vector Machine (SVM). XGBoost, and Logistic Regression to find the best performing model.
