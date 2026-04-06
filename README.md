@@ -3,6 +3,7 @@ The Regime Switching Volatility Predictor is a machine learning-based project de
 
 Model Used:
 Logistic Regression
+
 Type: Classification
 
 
