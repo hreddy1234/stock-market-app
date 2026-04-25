@@ -470,3 +470,4 @@ elif page == "💰 INVESTMENT":
 
             st.subheader("📈 Smart Portfolio Growth")
             st.line_chart(df.set_index("Day"))
+st.warning("Disclaimer: This Streamlit app may occasionally produce inaccurate or incomplete results and should not be solely relied upon for critical decisions.")
